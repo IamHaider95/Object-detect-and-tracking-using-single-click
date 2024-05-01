@@ -3,6 +3,7 @@ This repository is using YOLOv7 detection algorithm with yolov7.pt weights and V
 
 #How to use the repository#
 * Clone YOLOv7 repository.
+  
   git clone https://github.com/WongKinYiu/yolov7
 
 * Install requirements.txt needed for YOLOv7 repository to work.
